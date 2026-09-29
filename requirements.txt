@@ -1,0 +1,16 @@
+# Core Agent & LLM
+google-genai>=2.25.0
+google-adk>=2.10.0
+
+# TypeSafe Jev System One SDK
+typesafe-sdk>=0.7.2
+
+# Graph & Data Structure
+networkx>=3.6.0
+pyvis>=0.3.2
+
+# Utilities & Networking
+python-dotenv>=1.2.0
+pydantic>=2.13.0
+requests>=2.34.0
+httpx>=0.28.0
